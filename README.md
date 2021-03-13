@@ -54,13 +54,9 @@ finding and studying resources on your own before the real thing!
 As a suggestion, create a resource list. This list will help you in a few ways:
 
 - Keeping track of resources you have found so you don't lose track of them while you search for other resources.
-- 
 - Helping you to create a bibliography and reference list when you write up your work (you don't need to do this for this
-- 
 - markdown task, but you do for your main self-learning report).
-- 
 - When someone asks you in a few months or years how to do something you have learned, you have resources to direct
-- 
 - them to.
 
 You can store this in a few ways - from something as informal as a folder of bookmarks in your browser, to a list you save in
