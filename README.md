@@ -40,9 +40,9 @@ learn):
 - [ ] Experiment with and explore Markdown on your own
 - [ ] Try and recreate this document as precisely as you can
 
-This task is a 'trial run' before you get ~~thrown into the deep end~~ asked to learn something on your own without much support from teaching staff.
+This task is a 'trial run' before you get ~~thrown into the deep end~~ asked to learn something on your own without much support from
 
-To be clear - you will get as much support as we can possibly offer to do with how to learn - but you will be almost
+teaching staff. To be clear - you will get as much support as we can possibly offer to do with how to learn - but you will be almost
 
 entirely on your own in terms of the thing you are learning. While this Markdown task is not assessed, and could be completed in
 
