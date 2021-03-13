@@ -47,6 +47,7 @@ teaching staff. To be clear - you will get as much support as we can possibly of
 entirely on your own in terms of the thing you are learning. While this Markdown task is not assessed, and could be completed in
 
 a couple of hours, you will soon be asked to develop a plan for learning something more substantial. Use this task to practice
+
 finding and studying resources on your own before the real thing!
 
 
@@ -68,7 +69,9 @@ Dropbox/Onedrive/
 
 1. First resource
 2. Second resource
+
 …
+
 10. Tenth resource and so on
 
 or you could use a table in Excel or similar:
